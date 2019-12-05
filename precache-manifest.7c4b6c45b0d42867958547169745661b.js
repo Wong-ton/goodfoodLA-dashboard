@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4be3a7571815e6153b7a25a7c319746c",
+    "revision": "d5b6f720dbb626289bf8b58469725371",
     "url": "/goodfoodLA-dashboard/index.html"
   },
   {
-    "revision": "6eeedc18835bc0f4faba",
+    "revision": "0dffc34505a7430880ed",
     "url": "/goodfoodLA-dashboard/static/css/main.2188e002.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goodfoodLA-dashboard/static/js/2.992ef907.chunk.js"
   },
   {
-    "revision": "6eeedc18835bc0f4faba",
-    "url": "/goodfoodLA-dashboard/static/js/main.18737aba.chunk.js"
+    "revision": "0dffc34505a7430880ed",
+    "url": "/goodfoodLA-dashboard/static/js/main.55a319d5.chunk.js"
   },
   {
     "revision": "9be80ff816d15d300c3c",
