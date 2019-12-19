@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/goodfoodLA-dashboard/static/css/main.288d9fe0.chunk.css",
-    "main.js": "/goodfoodLA-dashboard/static/js/main.3ca57866.chunk.js",
-    "main.js.map": "/goodfoodLA-dashboard/static/js/main.3ca57866.chunk.js.map",
+    "main.css": "/goodfoodLA-dashboard/static/css/main.d9cc8532.chunk.css",
+    "main.js": "/goodfoodLA-dashboard/static/js/main.655308a5.chunk.js",
+    "main.js.map": "/goodfoodLA-dashboard/static/js/main.655308a5.chunk.js.map",
     "runtime~main.js": "/goodfoodLA-dashboard/static/js/runtime~main.e12ce9c7.js",
     "runtime~main.js.map": "/goodfoodLA-dashboard/static/js/runtime~main.e12ce9c7.js.map",
     "static/js/2.992ef907.chunk.js": "/goodfoodLA-dashboard/static/js/2.992ef907.chunk.js",
     "static/js/2.992ef907.chunk.js.map": "/goodfoodLA-dashboard/static/js/2.992ef907.chunk.js.map",
     "index.html": "/goodfoodLA-dashboard/index.html",
-    "precache-manifest.34e7a2b0d3d225787e067f305799575c.js": "/goodfoodLA-dashboard/precache-manifest.34e7a2b0d3d225787e067f305799575c.js",
+    "precache-manifest.8fd6dfb66ce365354b0288e60d291601.js": "/goodfoodLA-dashboard/precache-manifest.8fd6dfb66ce365354b0288e60d291601.js",
     "service-worker.js": "/goodfoodLA-dashboard/service-worker.js",
-    "static/css/main.288d9fe0.chunk.css.map": "/goodfoodLA-dashboard/static/css/main.288d9fe0.chunk.css.map",
+    "static/css/main.d9cc8532.chunk.css.map": "/goodfoodLA-dashboard/static/css/main.d9cc8532.chunk.css.map",
     "static/media/HealthyHeaderbkgrd.png": "/goodfoodLA-dashboard/static/media/HealthyHeaderbkgrd.10636bf7.png",
     "static/media/LOGO.png": "/goodfoodLA-dashboard/static/media/LOGO.49a9c5ff.png"
   }
